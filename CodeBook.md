@@ -3,7 +3,7 @@
 
 - Test and train data sets of measures, as described in /UVI HAR Dataset/features_info.txt.
 - Data set mapping measures and activity codes.
-- Data set mapping subjects (person who generate data) and measures.
+- Data set mapping subjects (person who generated data) and measures.
 - Files with activities description.
 
 ### DATA PROCESSING STEPS
@@ -24,4 +24,4 @@
 
 - File ("tidi.txt") with:
 	- Activity Name and Subject ID columns.
-	- Average (of each mean and stantard deviation variable) for each activity name and each subject. 
+	- Average (of each mean and stantard deviation variables) for each activity name and each subject. 

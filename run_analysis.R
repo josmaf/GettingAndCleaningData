@@ -1,5 +1,5 @@
 ## Script that generate a tidy data set,
-## with the average of each mean and stantard deviation variable
+## with the average of each mean and stantard deviation variables
 ## for each activity name and each subject
 
 
